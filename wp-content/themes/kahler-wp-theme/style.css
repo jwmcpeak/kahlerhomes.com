@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5 {font-family: Merriweather,"Helvetica Neue",Helvetica,Arial,s
 .front-section .announcement {background-color: #625D52;color: #fff;border: 0;}
 .front-section .announcements>h3 {margin: 0 0 10px;}
 .front-section .announcement a {color: #fff !important;}
-#front-header {background-image: url("./assets/images/parade/2019/costa-mesa/front.jpg");background-repeat: no-repeat;background-position: 0 -600px;margin-top: -152px;padding-top: 120px;}
+#front-header {background-image: url("./assets/images/parade/2019/costa-mesa/cover-large.jpg");background-repeat: no-repeat;background-position: 0 -750px;margin-top: -152px;padding-top: 120px;}
 #front-developments {background-image: url("./assets/images/parade/2016/turtle-creek/turtle-creek-house07.jpg");background-position: 0 -450px;text-align: left;}
 @media (min-width:768px) {.navbar-default .navbar-collapse {position: inherit;width: inherit;background: 0 0;border: 0;z-index: 100;}
 	.front-section .section-text {padding-top: 80px;padding-bottom: 80px;}
